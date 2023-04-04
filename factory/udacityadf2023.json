@@ -1,0 +1,17 @@
+{
+	"name": "udacityadf2023",
+	"properties": {
+		"globalParameters": {
+			"global_param_fiscalyear": {
+				"type": "int",
+				"value": 2019
+			}
+		}
+	},
+	"location": "westus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "26d50bf1-db90-4be4-8efb-3f31f40ba037",
+		"tenantId": "19e25a6d-6ec5-4455-8dce-5f0253ef53f7"
+	}
+}
